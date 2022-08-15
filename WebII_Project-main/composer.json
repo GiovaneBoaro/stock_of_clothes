@@ -1,0 +1,12 @@
+{
+        "name": "fabricio/projeto_web_manha",
+        "autoload": {
+            "psr-4": {
+                "APP\\": "src/"
+            },
+        "files": [
+            "Config.php"
+        ]
+    },
+    "require":{}
+}
